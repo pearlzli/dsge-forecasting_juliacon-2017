@@ -3,6 +3,12 @@
 Slides for a talk at [JuliaCon 2017](http://juliacon.org/2017/) on Wednesday,
 June 21st at 1:30 pm.
 
+To convert the Jupyter notebook to slides and serve in your browser:
+
+1. [Install Jupyter](http://jupyter.org/install.html) if necessary
+2. Run `jupyter nbconvert slides.ipynb --to slides --post serve` at the command
+   line
+
 ## Abstract
 
 This talk will give an overview of how researchers at the Federal Reserve Bank
