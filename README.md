@@ -37,6 +37,6 @@ high-dimensional problems which are well suited for implementation in Julia.
 This talk reflects the experience of the author and does not represent an
 endorsement by the Federal Reserve Bank of New York or the Federal Reserve
 System of any particular product or service. The views expressed in this talk
-are those of the authors and do not necessarily reflect the position of the
+are those of the author and do not necessarily reflect the position of the
 Federal Reserve Bank of New York or the Federal Reserve System. Any errors or
-omissions are the responsibility of the authors.
+omissions are the responsibility of the author.
