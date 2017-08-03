@@ -1,7 +1,8 @@
 # Using Parallel Computing for Macroeconomic Forecasting at the Federal Reserve Bank of New York
 
 Slides for a talk at [JuliaCon 2017](http://juliacon.org/2017/) on Wednesday,
-June 21st at 1:30 pm.
+June 21st at 1:30 pm. Video of the talk is
+[here](https://www.youtube.com/watch?v=NH9AgnbJmVA).
 
 To convert the Jupyter notebook to slides and serve in your browser:
 
